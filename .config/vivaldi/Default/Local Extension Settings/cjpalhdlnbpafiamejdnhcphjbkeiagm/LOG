@@ -1,0 +1,12 @@
+2018/04/27-07:28:00.108 1125 Reusing MANIFEST /home/luchtcm/.config/vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2018/04/27-07:28:00.108 1125 Recovering log #65
+2018/04/27-07:28:00.128 1125 Level-0 table #68: started
+2018/04/27-07:28:00.173 1125 Level-0 table #68: 2304960 bytes OK
+2018/04/27-07:28:00.177 1125 Delete type=0 #65
+2018/04/27-07:28:00.178 1569 Compacting 4@0 + 4@1 files
+2018/04/27-07:28:00.257 1569 Generated table #70@0: 12 keys, 2177209 bytes
+2018/04/27-07:28:00.340 1569 Generated table #71@0: 15 keys, 2114045 bytes
+2018/04/27-07:28:00.389 1569 Generated table #72@0: 12 keys, 2483964 bytes
+2018/04/27-07:28:00.395 1569 Generated table #73@0: 3 keys, 326 bytes
+2018/04/27-07:28:00.395 1569 Compacted 4@0 + 4@1 files => 6775544 bytes
+2018/04/27-07:28:00.398 1569 compacted to: files[ 0 4 1 0 0 0 0 ]

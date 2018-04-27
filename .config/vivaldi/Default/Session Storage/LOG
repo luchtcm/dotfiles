@@ -1,0 +1,22 @@
+2018/04/27-07:28:02.885 1126 Reusing MANIFEST /home/luchtcm/.config/vivaldi/Default/Session Storage/MANIFEST-000001
+2018/04/27-07:28:02.885 1126 Recovering log #43
+2018/04/27-07:28:02.886 1126 Reusing old log /home/luchtcm/.config/vivaldi/Default/Session Storage/000043.log 
+2018/04/27-08:53:49.522 1569 Compacting 1@0 + 1@1 files
+2018/04/27-08:53:49.536 1569 Generated table #46@0: 846 keys, 30059 bytes
+2018/04/27-08:53:49.536 1569 Compacted 1@0 + 1@1 files => 30059 bytes
+2018/04/27-08:53:49.540 1569 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/04/27-08:53:49.540 1569 Delete type=2 #41
+2018/04/27-08:53:49.540 1569 Delete type=2 #44
+2018/04/27-09:03:24.531 1569 Level-0 table #48: started
+2018/04/27-09:03:24.546 1569 Level-0 table #48: 19494 bytes OK
+2018/04/27-09:03:24.550 1569 Delete type=0 #43
+2018/04/27-13:03:04.824 1569 Level-0 table #50: started
+2018/04/27-13:03:04.838 1569 Level-0 table #50: 22703 bytes OK
+2018/04/27-13:03:04.842 1569 Delete type=0 #47
+2018/04/27-13:04:10.580 1569 Compacting 2@0 + 1@1 files
+2018/04/27-13:04:10.596 1569 Generated table #51@0: 1371 keys, 48714 bytes
+2018/04/27-13:04:10.596 1569 Compacted 2@0 + 1@1 files => 48714 bytes
+2018/04/27-13:04:10.600 1569 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/04/27-13:04:10.600 1569 Delete type=2 #46
+2018/04/27-13:04:10.601 1569 Delete type=2 #48
+2018/04/27-13:04:10.601 1569 Delete type=2 #50
